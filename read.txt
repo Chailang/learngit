@@ -1,0 +1,6 @@
+>>>>> product_default_home      [该图片删除请去项目的Images.xcassets里删除]
+>>>>> home_hotSell_arrow      [该图片删除请去项目的Images.xcassets里删除]
+>>>>> home_arrow_right      [该图片删除请去项目的Images.xcassets里删除]
+>>>>> partner_main_review      [该图片删除请去项目的Images.xcassets里删除]
+>>>>> partner_my_cell_recommendRecord      [该图片删除请去项目的Images.xcassets里删除]
+>>>>> com_icon_black_close_u      [该图片删除请去项目的Images.xcassets里删除]
