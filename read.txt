@@ -7,3 +7,7 @@ Git is free software.
 >>>>> partner_main_review      [该图片删除请去项目的Images.xcassets里删除]
 >>>>> partner_my_cell_recommendRecord      [该图片删除请去项目的Images.xcassets里删除]
 你是谁？哈哈哈哈
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
